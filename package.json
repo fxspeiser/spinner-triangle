@@ -1,17 +1,26 @@
 {
   "name": "spinner-triangle",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "custom spinner library",
   "main": "index.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Frank Speiser",
+  "license": "MIT",
   "dependencies": {
     "chalk": "^5.2.0",
     "cli-spinners": "^2.7.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fxspeiser/spinner-triangle.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fxspeiser/spinner-triangle/issues"
+  },
+  "homepage": "https://github.com/fxspeiser/spinner-triangle#readme"
 }
